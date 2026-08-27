@@ -1,25 +1,21 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Product Testing Rig
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
+Project Name: Product Testing Rig 
+Date: May 2026 - August 2026
+Problem: Increase the testing capability of design lab at Rifton Equipment
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Project Description: Solo built a product testing rig which is used to validate medical products design through rigorous movements. I saw this through from the beginning starting with modeling the rig using solidworks. After getting the design looked over from the head engineer in the design office I began fabricating the rig through methods such as CNC machining, laser cutting as well as various other power tools. After I fully built the rig I wired everything including the electronics and pneumatics and then drew up the wiring diagrams for each circuit using the software Tiny Cad. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -60,10 +56,10 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+#The code is simple.
+#Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a #href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
+#To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
+#Here's the code for the last row of images above:
 
 {% raw %}
 
