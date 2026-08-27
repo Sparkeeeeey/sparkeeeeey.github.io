@@ -9,8 +9,8 @@ profile:
   image: IMG_3808.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Phone Number</p>
-    <p>123 your address street</p>
+    <p>Phone Number: 347 949 1973</p>
+#    <p>123 your address street</p>
     <p>New York City, New York</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
