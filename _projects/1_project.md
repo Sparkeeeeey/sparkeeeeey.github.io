@@ -26,21 +26,22 @@ Sololution: Solo built a product testing rig which is uses a pnuematic piston an
 <div class="caption">
     On the left is the solidworks model that I created for a reference and part list. In the middle you can see I have started to assemble the rig. On the right I have installed the rig into its frame.
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_505.JPEG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_5055 (1).JPEG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     This is the fully wired and and assembled product.
 </div>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2026-07-28 09_07_31-TinyCAD - PLC_Panel_1_wheeltester_additions.dsn_.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
     This is the wiring diagram for the pnuematics, for other engineers to reference.
 </div>
