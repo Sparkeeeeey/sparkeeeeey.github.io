@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Self Closing Door
-description: Self Closing Door
-img: assets/img/doorclosing.MP4
+description: 
+img: assets/img/2026-06-26 09_59_17-SOLIDWORKS Premium 2025 SP4.0 - [MainAssemblyDoorJam _].png
 importance: 2
 category: work
 giscus_comments: false
