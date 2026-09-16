@@ -2,7 +2,7 @@ cv:
   name: Yoobin Park
   label: Student at Grove School of Engineering
   email: yoobspark@gmail.com
-  location: NYC
+  location: New York, New York
   image: ""
   summary: Current junior studying mechanical engineering at the Grove School of Engineering.
   social_networks:
@@ -19,10 +19,10 @@ cv:
         studyType: Undergrad
         start_date: 2024
         end_date: 2028
-        highlights: 
-          - Clubs; Baja SAE, AIAA, Robotics, ASME
+        highlights:
+          - Clubs, Baja SAE, AIAA, Robotics, ASME
 
-  Experience:
+    Experience:
       - company: Rifton Equipment
         position: Mechanical Design Internship
         location: Rifton, NY
@@ -59,25 +59,47 @@ cv:
         location: New York, New York
         start_date: 2024
         end_date: 2026
-        summary: Helped distribute food at a food pantry to finacially challenged people.
+        summary: Helped distribute food at a food pantry to financially challenged people.
 
     Awards:
-      - title: New York State Champions 
+      - title: New York State Champions
         date: 2024
         awarder: VEX Robotics Competition
-        url: https://events.vex.com/robot-competitions/vex-robotics-competition
-        summary: Won the New York State Robotics championship. Was team captain, design lead and programmer. Placed 2nd Globally out of over 5000 teams
-  
+        url: "https://events.vex.com/robot-competitions/vex-robotics-competition"
+        summary: Won the New York State Robotics championship. Was team captain, design lead and programmer. Placed 2nd Globally out of over 5000 teams.
+
     Skills:
-      - name: Languages: Physics Java, Python, C++, Matlab. Design Software; Design and Software; Solidworks, Onshape, Fusion 360, Autodesk Inventor, Tinycad, DFM, GD and T. Fabrication; 3-D printing, Manual Milling, Lathe Operator, Tubing Fabrication
+      - name: Programming Languages
+        keywords:
+          - Java
+          - Python
+          - C++
+          - MATLAB
+      - name: Design & Software
+        keywords:
+          - SolidWorks
+          - Onshape
+          - Fusion 360
+          - Autodesk Inventor
+          - TinyCAD
+          - DFM
+          - GD&T
+      - name: Fabrication
+        keywords:
+          - 3D Printing
+          - Manual Milling
+          - Lathe Operation
+          - Tubing Fabrication
 
     Languages:
-
       - name: English
-        summary: "Fluent"
+        summary: Fluent
 
     Interests:
-      - name: Physics, Mechanical Design, Manufacturing Design, Cars, honestly anything to do with creating new products of improving them!
-
-
-  
+      - name: Engineering & Design
+        keywords:
+          - Physics
+          - Mechanical Design
+          - Manufacturing Design
+          - Cars
+          - Product Development
