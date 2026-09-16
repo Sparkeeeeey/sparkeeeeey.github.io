@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Air Powered Motor
-description: 
+description: A custom designed pnuematic motor
 img: assets/img/SideVeiw.JPEG
 importance: 1
 category: work
 related_publications: false
 ---
 
-Created a compressed air powered engine turning air pressure into rotational torque
+Project Overview
+This was a 2 cycle pnuematic motor that I machined using a bridgeport milling machine and lathe. The tolerances where pretty tight on this project so it was nice to get it running.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,6 +36,6 @@ Random stuff for the project
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+   Some more pictures of the assembled project.
 </div>
 
