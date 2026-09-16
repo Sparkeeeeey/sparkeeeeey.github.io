@@ -15,19 +15,21 @@ cv:
     Education:
       - institution: The City College, Grove School of Engineering
         location: New York, New York
-        area: Mechanical Engineering
+        area: Bachelors in Mechanical Engineering
         studyType: Undergrad
         start_date: 2024
         end_date: 2028
-        clubs: Robotics, Asme, Baja SAE Racing, AIAA
+        highlights:
+          - Clubs; Baja SAE, AIAA, Robotics, ASME
 
-    Experience:
+  Experience:
       - company: Rifton Equipment
         position: Mechanical Design Internship
         location: Rifton, NY
-        start_date: May 2026
-        end_date: Aug 2026
-        summary: Created a Product Testing rig from scratch
+        start_date: 2026
+        end_date: 2026
+        summary: Created a Product Testing rig from scratch.
+        highlights:
           - Designed, cadded, and fabricated a modular, customizable testing rig to evaluate medical equipment product against industry testing standards.
           - Wired and configured electronics for pneumatic controls to support automated, repeatable testing cycles as well as created the wiring diagrams for future references using the software TinyCad.
           - Built and integrated a pneumatic piston system with a load cell to measure force during product testing.
@@ -37,6 +39,7 @@ cv:
         location: Manhattan, New York
         start_date: 2024
         end_date: 2025
+        summary:
         highlights:
           - Led instruction for student cohorts in mechanical design, robotics fundamentals, and control systems, breaking down complex engineering concepts into hands on, accessible lessons.
           - Mentored students through the full robot design lifecycle from CAD modeling to system integration building their technical confidence and problem-solving skills.
@@ -44,8 +47,8 @@ cv:
       - company: Community Playthings
         position: Manufacturing Internship
         location: Esopus, New York
-        start_date: June 2025
-        end_date: Aug. 2025
+        start_date: 2025
+        end_date: 2025
           - Redesigned product packaging and shipping method for a product, reducing packaging costs by 15 percent through testing and validation.
           - Gained hands-on exposure to end-to-end manufacturing processes, including assembly, quality inspection, and shipping/logistics workflows.
 
@@ -54,20 +57,18 @@ cv:
         position: Volunteer
         location: New York, New York
         start_date: 2024
-        end_date: Present
+        end_date: 2026
         summary: Helped distribute food at a food pantry multiple times.
 
     Awards:
       - title: New York State Champions 
-        date: 2024-04
+        date: 2024
         awarder: VEX Robotics Competition
         url: https://events.vex.com/robot-competitions/vex-robotics-competition
         summary: Won the New York State Robotics championship. Was team captain, design lead and programmer. Placed 2nd Globally out of over 5000 teams
   
     Skills:
-      - name: Languages: Physics Java, Python, C++, Matlab
-          - Design and Software; Solidworks, Onshape, Fusion 360, Autodesk Inventor, Tinycad, DFM, GD and T
-          - Fabrication; 3-D printing, Manual Milling, Lathe Operator, Tubing Fabrication
+      - name: Languages: Physics Java, Python, C++, Matlab. Design Software; Design and Software; Solidworks, Onshape, Fusion 360, Autodesk Inventor, Tinycad, DFM, GD and T. Fabrication; 3-D printing, Manual Milling, Lathe Operator, Tubing Fabrication
 
     Languages:
 
