@@ -27,10 +27,10 @@ cv:
         location: Rifton, NY
         start_date: May 2026
         end_date: Aug 2026
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+        summary: Created a Product Testing rig from scratch
+          - Designed, cadded, and fabricated a modular, customizable testing rig to evaluate medical equipment product against industry testing standards.
+          - Wired and configured electronics for pneumatic controls to support automated, repeatable testing cycles as well as created the wiring diagrams for future references using the software TinyCad.
+          - Built and integrated a pneumatic piston system with a load cell to measure force during product testing.
 
       - company: Play Ideas Robotics
         position: Coach
@@ -38,20 +38,16 @@ cv:
         start_date: 2024
         end_date: 2025
         highlights:
-          - Led instruction for student cohorts in mechanical design, robotics fundamentals, and control systems, breaking
-            down complex engineering concepts into hands-on, accessible lessons.
-          - Mentored students through the full robot design lifecycle — from CAD modeling to system integration — building
-            their technical confidence and problem-solving skills.
+          - Led instruction for student cohorts in mechanical design, robotics fundamentals, and control systems, breaking down complex engineering concepts into hands-on, accessible lessons.
+          - Mentored students through the full robot design lifecycle — from CAD modeling to system integration building their technical confidence and problem-solving skills.
 
       - company: Community Playthings
         position: Manufacturing Internship
         location: Esopus, New York
         start_date: June 2025
         end_date: Aug. 2025
-          - Redesigned product packaging and shipping method for a product, reducing packaging costs by 15 percent through
-            testing and validation.
-          - Gained hands-on exposure to end-to-end manufacturing processes, including assembly, quality inspection, and
-            shipping/logistics workflows
+          - Redesigned product packaging and shipping method for a product, reducing packaging costs by 15 percent through testing and validation.
+          - Gained hands-on exposure to end-to-end manufacturing processes, including assembly, quality inspection, and shipping/logistics workflows.
 
     Volunteer:
       - company: New York Common Pantry
@@ -69,9 +65,9 @@ cv:
         summary: Won the New York State Robotics championship. Was team captain, design lead and programmer. Placed 2nd Globally out of over 5000 teams
   
     Skills:
-      - Languages: Java, Python, C++, Matlab
-        Design and Software: Solidworks, Onshape, Fusion 360, Autodesk Inventor, Tinycad, DFM, GD and T
-        Fabrication: 3-D printing, Manual Milling, Lathe Operator, Tubing Fabrication
+      - name: Languages: Physics Java, Python, C++, Matlab
+          - Design and Software; Solidworks, Onshape, Fusion 360, Autodesk Inventor, Tinycad, DFM, GD and T
+          - Fabrication; 3-D printing, Manual Milling, Lathe Operator, Tubing Fabrication
 
     Languages:
 
