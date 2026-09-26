@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://sparkeeeeey.github.io/sitemap.xml
